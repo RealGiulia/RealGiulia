@@ -6,4 +6,4 @@
 - 💬 If you have any question about matters of Python and RPA, feel free to reach out to me!
 - 📫 How to reach me: LinkedIn Profile -> https://www.linkedin.com/in/giulia-real-47a374201/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love pizza, Red Hot Chilli Peppers and I play guitar
+- ⚡ Fun fact: A fan of VSCode Dark Mode, a lover of Pizza and Red Hot Chilli Peppers.
